@@ -64,5 +64,23 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-StatCounter is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
-- https://statcounter.com/
+StatCounter provides web analytics services that help website owners track visitor behavior, traffic sources, and engagement in real time. Their platform offers features such as heatmaps, session replay, click fraud detection, and detailed reporting, catering to both small sites and enterprise customers. With a focus on ease of use, StatCounter delivers actionable insights without requiring extensive setup, supporting integration via a paid API for developers to build custom reports and applications.
+
+**Areas:** Company · Analytics · Web · Real-time · Heatmaps
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://statcounter.com/)
+- [Documentation](https://statcounter.com/api/docs/v3/)
+- [API reference](https://statcounter.com/api/docs/v3/)
+- [Pricing](https://statcounter.com/pricing/)
+- [Support](https://statcounter.com/support/faq/)
+- [Blog](https://statcounter.com/blogger/)
+
+**APIs profiled:** 1
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/statcounter/](https://apis.io/providers/statcounter/).
